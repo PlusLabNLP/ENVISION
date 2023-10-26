@@ -5,7 +5,7 @@
 
 
 **[Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge](https://arxiv.org/pdf/2310.15066v1.pdf)**<br>
-<em>Te-Lin Wu<sup>*</sup>, **Yu Zhou<sup>*</sup>** (equal contribution), Nanyun Peng</em> <font color="red"> <br/>
+<em>Te-Lin Wu<sup>*</sup>, Yu Zhou<sup>*</sup> (equal contribution), Nanyun Peng</em> <font color="red"> <br/>
 EMNLP 2023 <br>
 
 ## Abstract
