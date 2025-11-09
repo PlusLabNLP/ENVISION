@@ -14,8 +14,6 @@ symbolic knowledge. We evaluate our framework on Ego4D and Epic-Kitchens dataset
 
 [![Spotlight Video](./Media/spotlight.png)](https://www.youtube.com/watch?v=t_yDXUriRZo)
 
-[Twitter](https://x.com/yu_bryan_zhou/status/1717724445715128628?s=20)<br>
-
 ## Reproduce
 ### Requirements
 
