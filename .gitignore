@@ -138,3 +138,4 @@ clip-roberta
 
 all_visualizations/TREK-150-LTMUH-telin-tryouts.ipynb
 modeling/chatgpt_results
+.env
