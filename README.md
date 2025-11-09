@@ -24,19 +24,11 @@ Please see [environment.yml](https://github.com/PlusLabNLP/ENVISION/blob/main/re
 
 ---
 
-### Training
+### ENVISION
 
-For data processing and LLM knowledge extraction, please refer to [link](https://github.com/PlusLabNLP/ENVISION/tree/main/data_processing).<br><br>
-
-For model training and inference using ENVISION, please refer to [link](https://github.com/PlusLabNLP/ENVISION/tree/main/data_processing).<br><br>
-
-For visualizing data and ENVISION inference results, please refer to [link](https://github.com/PlusLabNLP/ENVISION/tree/main/visualization).<br><br>
-
-For model training and inference using ENVISION, please refer to [link](https://github.com/PlusLabNLP/ENVISION/tree/main/baselines).<br><br>
+For data processing and LLM knowledge extraction, please refer to [data_processing](https://github.com/PlusLabNLP/ENVISION/tree/main/data_processing). For model training and inference using ENVISION, please refer to [modeling](https://github.com/PlusLabNLP/ENVISION/tree/main/modeling). For visualizing data and ENVISION inference results, please refer to [visualization](https://github.com/PlusLabNLP/ENVISION/tree/main/visualization). For model training and inference using ENVISION, please refer to [baselines](https://github.com/PlusLabNLP/ENVISION/tree/main/baselines).<br><br>
 
 ---
-
-
 
 
 ## BibTeX
