@@ -1,0 +1,4 @@
+*.DS_Store
+.vscode/
+__pycache__
+ego4dv1_pnr_objects
